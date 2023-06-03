@@ -1,0 +1,473 @@
+,Dress_ID,Style,Price,Rating,Size,Season,NeckLine,SleeveLength,Material,FabricType,Decoration,Pattern Type,Recommendation,Spring,Summer,Winter,Autumn
+0,1006032852,Sexy,Low,4.6,Medium,Summer,o-neck,sleeve less,Missing,chiffon,ruffles,animal,1,2660.0,13899.0,9658.0,26857.0
+1,1212192089,Casual,Low,0.0,Large,Summer,o-neck,Others,microfiber,Missing,ruffles,animal,0,750.0,6216.0,6405.0,17311.0
+2,1190380701,vintage,High,0.0,Large,Autumn,o-neck,full sleeves,polyster,Missing,Missing,print,0,7.0,40.0,28.0,82.0
+3,966005983,Brief,Average,4.6,Large,Spring,o-neck,full sleeves,silk,chiffon,embroidary,print,1,1455.0,7213.0,5012.0,14411.0
+4,876339541,cute,Low,4.5,Medium,Summer,o-neck,Others,chiffonfabric,chiffon,bow,dot,0,1396.0,7706.0,5678.0,14676.0
+5,1068332458,bohemian,Low,0.0,Medium,Summer,v-neck,sleeve less,Missing,Missing,Missing,print,0,13.0,62.0,56.0,169.0
+6,1220707172,Casual,Average,0.0,Extra large,Summer,o-neck,full sleeves,cotton,Missing,Missing,solid,0,165.0,965.0,934.0,2536.0
+7,1113094204,Others,Average,0.0,Free,Spring,v-neck,short,cotton,broadcloth,beading,solid,1,12.0,68.0,60.0,181.0
+8,985292672,bohemian,Low,0.0,Free,Summer,v-neck,sleeve less,nylon,chiffon,Missing,Missing,1,12.0,58.0,39.0,107.0
+9,1117293701,party,Average,5.0,Free,Summer,o-neck,full sleeves,polyster,broadcloth,Others,solid,0,49.0,275.0,245.0,624.0
+10,898481530,Others,Average,0.0,Free,Spring,v-neck,short,nylon,Missing,Missing,animal,0,59.0,383.0,346.0,980.0
+11,957723897,sexy,Low,4.7,Medium,Winter,o-neck,three quater,Missing,chiffon,Others,print,1,1568.0,8640.0,6356.0,17340.0
+12,749031896,vintage,Average,4.8,Medium,Summer,o-neck,short,cotton,jersey,Missing,animal,1,2656.0,14402.0,9731.0,25653.0
+13,1055411544,Casual,Low,5.0,Medium,Summer,boat-neck,short,cotton,Missing,sashes,solid,0,43.0,191.0,142.0,406.0
+14,1162628131,Casual,Low,0.0,Free,Winter,boat-neck,full sleeves,Others,Others,Others,Missing,0,25.0,264.0,284.0,678.0
+15,624314841,cute,Average,4.7,Large,Spring,o-neck,short,cotton,Missing,sashes,solid,1,1764.0,9334.0,6153.0,16381.0
+16,830467746,bohemian,Medium,5.0,Free,Autumn,o-neck,full sleeves,Missing,Missing,hollowout,patchwork,1,17.0,76.0,53.0,141.0
+17,840857118,Brief,Average,0.0,Medium,Winter,Others,three quater,cotton,Missing,Missing,patchwork,0,11.0,46.0,39.0,106.0
+18,1113221101,Sexy,Average,5.0,Medium,Autumn,o-neck,sleeve less,milksilk,Missing,Missing,Missing,1,279.0,1482.0,1268.0,3550.0
+19,861754372,Sexy,Average,4.5,Large,Autumn,o-neck,full sleeves,cotton,Missing,beading,solid,0,163.0,945.0,745.0,2222.0
+20,856178100,Casual,Low,4.3,Medium,Summer,o-neck,sleeve less,Missing,chiffon,Missing,solid,0,1109.0,5802.0,4066.0,10826.0
+21,1122989777,Brief,Low,4.0,Extra large,Summer,v-neck,short,cotton,Missing,Others,solid,0,229.0,1031.0,688.0,1864.0
+22,840516484,Sexy,Average,4.7,Small,Summer,v-neck,sleeve less,cotton,Missing,sequined,solid,1,1479.0,7944.0,5428.0,14561.0
+23,768517084,Sexy,Average,0.0,Free,Autumn,v-neck,sleeve less,polyster,Missing,Others,patchwork,0,4.0,19.0,14.0,40.0
+24,1139843344,Sexy,Average,0.0,Medium,Autumn,o-neck,sleeve less,cotton,broadcloth,Missing,print,0,19.0,79.0,66.0,188.0
+25,1004212992,Sexy,Average,4.7,Medium,Spring,o-neck,sleeve less,Missing,Missing,Missing,solid,1,1358.0,7888.0,6057.0,16676.0
+26,1235426503,Casual,Low,0.0,Large,Summer,o-neck,sleeve less,cotton,jersey,Missing,print,0,42.0,518.0,576.0,1437.0
+27,942808364,cute,Low,4.3,Free,Autumn,o-neck,sleeve less,polyster,chiffon,sashes,striped,0,475.0,2288.0,1497.0,4073.0
+28,629131530,cute,Low,4.7,Medium,Spring,ruffled,short,chiffonfabric,chiffon,bow,dot,1,7374.0,35577.0,20388.0,55532.0
+29,851945460,Casual,Average,4.6,Large,Autumn,o-neck,sleeve less,polyster,chiffon,ruffles,solid,0,1330.0,6871.0,4555.0,12187.0
+30,1150275464,Casual,Low,0.0,Medium,Spring,o-neck,sleeve less,silk,chiffon,applique,solid,1,205.0,1265.0,1061.0,2751.0
+31,1026634314,Casual,Average,4.4,Large,Autumn,o-neck,sleeve less,Others,chiffon,ruffles,animal,0,931.0,4724.0,3159.0,8284.0
+32,978773911,Brief,Average,4.3,Large,Spring,o-neck,sleeve less,Missing,Missing,bow,solid,1,1085.0,5763.0,3988.0,10876.0
+33,827791337,party,High,4.7,Medium,Spring,o-neck,three quater,Missing,Missing,Missing,print,0,2313.0,11421.0,7018.0,18757.0
+34,640823350,Casual,Low,4.6,Free,Winter,boat-neck,full sleeves,cotton,Missing,Missing,patchwork,1,1595.0,7522.0,4917.0,13872.0
+35,801861988,vintage,Average,4.6,Free,Winter,o-neck,full sleeves,Missing,chiffon,Missing,print,1,1730.0,8737.0,5524.0,14441.0
+36,1060207186,Brief,Average,0.0,Medium,Autumn,o-neck,short,cotton,Missing,Missing,print,0,50.0,260.0,217.0,668.0
+37,1054679816,party,Average,4.6,Medium,Winter,o-neck,sleeve less,cotton,Missing,Others,solid,1,319.0,2635.0,2488.0,6370.0
+38,941190190,Casual,Average,4.5,Medium,Spring,v-neck,short,cotton,Missing,Others,solid,1,398.0,2530.0,2173.0,5661.0
+39,943844640,Brief,Average,5.0,Free,Spring,v-neck,sleeve less,cotton,broadcloth,Others,solid,1,112.0,655.0,587.0,1415.0
+40,661795386,Brief,Low,4.4,Large,Autumn,o-neck,half sleeves,rayon,chiffon,sashes,solid,0,2844.0,14149.0,8697.0,23483.0
+41,875312593,Casual,Average,4.8,Medium,Winter,o-neck,short,Others,broadcloth,applique,patchwork,0,555.0,2887.0,2028.0,5590.0
+42,971387676,Casual,Low,4.8,Free,Spring,o-neck,sleeve less,cotton,Missing,Missing,print,0,756.0,4109.0,2931.0,7710.0
+43,1021185637,vintage,Average,4.8,Medium,Winter,o-neck,sleeve less,cotton,Missing,Missing,patchwork,1,197.0,1021.0,774.0,2152.0
+44,1163826114,Sexy,Average,0.0,Medium,Winter,o-neck,short,Missing,Missing,Others,solid,0,48.0,394.0,427.0,1092.0
+45,735635595,Sexy,Average,4.8,Large,Spring,v-neck,three quater,polyster,Missing,Others,geometric,0,5484.0,27024.0,16228.0,42820.0
+46,1175184188,Casual,Average,0.0,Medium,Summer,o-neck,half sleeves,cotton,chiffon,ruffles,dot,1,23.0,95.0,83.0,216.0
+47,679415939,Casual,Low,4.7,Medium,Summer,o-neck,sleeve less,milksilk,Missing,Missing,solid,0,1165.0,5762.0,3662.0,10141.0
+48,884147971,Casual,Medium,0.0,Large,Winter,boat-neck,full sleeves,Missing,Missing,Missing,solid,1,4.0,18.0,12.0,34.0
+49,841203385,Sexy,Low,5.0,Free,Summer,v-neck,sleeve less,Missing,chiffon,Missing,animal,1,176.0,924.0,688.0,1887.0
+50,1117997056,Casual,Low,4.3,Free,Summer,o-neck,sleeve less,milksilk,Missing,Missing,animal,0,198.0,955.0,686.0,1856.0
+51,1160536550,Casual,Average,0.0,Large,Spring,o-neck,half sleeves,polyster,chiffon,hollowout,solid,1,44.0,216.0,170.0,497.0
+52,828623528,Casual,Average,4.6,Free,Autumn,o-neck,sleeve less,polyster,chiffon,sashes,solid,1,1415.0,7338.0,4627.0,12361.0
+53,763708514,sexy,Average,4.5,Medium,Spring,o-neck,three quater,polyster,Missing,Others,geometric,0,766.0,4240.0,3121.0,7805.0
+54,1153442065,Others,Average,0.0,Small,Winter,turndowncollor,full sleeves,cotton,Missing,Missing,patchwork,0,182.0,1143.0,1065.0,3032.0
+55,743729613,Casual,Average,4.9,Small,Winter,turndowncollor,full sleeves,cotton,Missing,Missing,solid,1,432.0,2456.0,1961.0,5339.0
+56,1000493051,sexy,Low,4.6,Large,Autumn,o-neck,sleeve less,Missing,Missing,Others,solid,1,536.0,2660.0,1752.0,4904.0
+57,911085061,bohemian,Low,4.5,Medium,Summer,v-neck,sleeve less,polyster,Missing,Missing,print,1,324.0,1612.0,1183.0,3200.0
+58,1174854264,work,Average,0.0,Medium,Autumn,slash-neck,sleeve less,polyster,Missing,bow,patchwork,0,23.0,119.0,102.0,258.0
+59,1053296757,cute,High,0.0,Medium,Spring,v-neck,full sleeves,rayon,Missing,Missing,solid,1,4.0,17.0,12.0,39.0
+60,1033843327,Casual,Average,0.0,Free,Spring,o-neck,short,cotton,Missing,hollowout,Others,0,5.0,37.0,35.0,80.0
+61,1083779666,Casual,Average,5.0,Medium,Summer,o-neck,short,polyster,chiffon,Missing,animal,0,57.0,277.0,199.0,582.0
+62,746255172,Casual,Average,4.7,Medium,Spring,o-neck,sleeve less,Missing,chiffon,sashes,solid,0,1846.0,9616.0,6282.0,17114.0
+63,1100974555,Sexy,Low,4.0,Small,Autumn,o-neck,sleeve less,cotton,Missing,Missing,solid,1,206.0,1327.0,1098.0,2983.0
+64,1019134411,Casual,Average,5.0,Medium,Autumn,v-neck,short,cotton,broadcloth,beading,solid,0,513.0,2953.0,2313.0,6222.0
+65,1072477320,Casual,Low,0.0,Free,Summer,v-neck,half sleeves,silk,broadcloth,applique,solid,0,308.0,1770.0,1286.0,3358.0
+66,638423913,Casual,Medium,4.5,Small,Winter,o-neck,full sleeves,polyster,Missing,Missing,patchwork,1,27.0,128.0,79.0,208.0
+67,936425780,work,Average,4.8,Large,Summer,v-neck,short,polyster,Missing,hollowout,solid,0,358.0,1875.0,1365.0,3663.0
+68,1146088956,Casual,Medium,0.0,Medium,Autumn,v-neck,short,polyster,Missing,Missing,solid,0,6.0,31.0,24.0,65.0
+69,864253055,bohemian,Average,5.0,Free,Summer,v-neck,sleeve less,cotton,Others,Missing,print,1,63.0,375.0,311.0,780.0
+70,1210582154,sexy,Low,0.0,Medium,Spring,v-neck,short,polyster,Others,ruffles,solid,1,341.0,2376.0,2807.0,5879.0
+71,926480831,Sexy,Average,4.2,Medium,Winter,v-neck,sleeve less,cotton,Others,Missing,solid,0,321.0,1751.0,1301.0,3462.0
+72,757260823,Casual,Low,4.8,Free,Spring,o-neck,full sleeves,cotton,worsted,Others,solid,0,33.0,167.0,145.0,398.0
+73,630561922,Casual,Low,4.4,Small,Autumn,o-neck,sleeve less,polyster,Missing,Missing,solid,0,867.0,4181.0,2410.0,6336.0
+74,734061929,Casual,Low,4.7,Large,Spring,o-neck,short,chiffonfabric,chiffon,bow,dot,0,2377.0,11260.0,6524.0,18090.0
+75,842060995,Casual,Average,5.0,Extra large,Winter,boat-neck,full sleeves,cotton,Missing,Missing,geometric,1,21.0,91.0,77.0,220.0
+76,1078431253,Casual,Low,0.0,Free,Spring,v-neck,sleeve less,cotton,Missing,Missing,print,0,4.0,24.0,19.0,50.0
+77,939770391,Casual,Average,0.0,Free,Spring,o-neck,sleeve less,Missing,chiffon,Missing,solid,0,6.0,26.0,18.0,48.0
+78,943188872,bohemian,very-high,4.7,Free,Winter,v-neck,sleeve less,polyster,Missing,Missing,Missing,1,71.0,364.0,240.0,637.0
+79,1130994272,Casual,Low,5.0,Medium,Summer,v-neck,sleeve less,polyster,chiffon,ruffles,animal,0,127.0,639.0,414.0,1129.0
+80,907117649,party,Average,4.7,Medium,Spring,v-neck,sleeve less,polyster,chiffon,hollowout,solid,0,1226.0,6711.0,4613.0,12163.0
+81,967999477,Sexy,Low,5.0,Free,Spring,o-neck,full sleeves,cotton,worsted,Missing,striped,0,305.0,1780.0,1384.0,3749.0
+82,944656411,vintage,Low,4.6,Medium,Summer,o-neck,short,Missing,chiffon,Missing,print,0,241.0,1740.0,1492.0,4247.0
+83,1096779299,Casual,Average,0.0,Free,Winter,o-neck,half sleeves,polyster,chiffon,hollowout,solid,0,8.0,69.0,84.0,153.0
+84,1036333255,Casual,Low,4.9,Large,Summer,boat-neck,short,Missing,chiffon,Missing,patchwork,1,159.0,964.0,776.0,2119.0
+85,1065316076,Casual,Low,0.0,Small,Autumn,o-neck,full sleeves,Missing,Missing,beading,solid,1,208.0,1129.0,893.0,2234.0
+86,995802744,Sexy,Average,4.0,Small,Autumn,v-neck,sleeve less,rayon,chiffon,Missing,patchwork,1,347.0,1730.0,1204.0,3426.0
+87,1018110870,Sexy,Low,5.0,Medium,Autumn,o-neck,full sleeves,Missing,chiffon,Others,print,1,259.0,1417.0,1081.0,2773.0
+88,850586379,Brief,Average,4.6,Medium,Winter,Others,three quater,cotton,Missing,Missing,solid,0,281.0,1335.0,976.0,2645.0
+89,1169895668,Casual,Average,0.0,Large,Spring,boat-neck,sleeve less,cotton,Missing,applique,patchwork,1,14.0,72.0,59.0,183.0
+90,688966772,Casual,Average,4.8,Large,Winter,o-neck,short,cotton,Missing,Others,solid,1,675.0,3481.0,2254.0,5991.0
+91,1194626925,Others,Medium,0.0,Medium,Winter,Others,half sleeves,cotton,Missing,sashes,solid,0,15.0,63.0,53.0,158.0
+92,876708804,Sexy,Low,4.8,Medium,Spring,o-neck,half sleeves,silk,Missing,Missing,solid,0,88.0,481.0,369.0,1091.0
+93,1118628066,Casual,Medium,0.0,Small,Spring,v-neck,full sleeves,Missing,Missing,Missing,animal,1,145.0,666.0,473.0,1404.0
+94,1027818824,Casual,Medium,0.0,Medium,Spring,v-neck,three quater,silk,chiffon,ruffles,solid,1,3.0,10.0,6.0,17.0
+95,891103323,Casual,Average,0.0,Medium,Spring,o-neck,sleeve less,silk,Missing,Missing,print,0,15.0,100.0,81.0,317.0
+96,1166855026,Casual,Average,0.0,Free,Winter,v-neck,full sleeves,Missing,chiffon,ruffles,print,0,11.0,37.0,10.0,11.0
+97,1023850025,vintage,Low,4.8,Small,Summer,o-neck,short,Missing,chiffon,ruffles,print,0,191.0,1211.0,1032.0,3130.0
+98,805438829,Sexy,Low,4.8,Large,Summer,v-neck,full sleeves,cotton,jersey,applique,print,1,718.0,3723.0,2477.0,6831.0
+99,836788720,Others,Average,4.0,Free,Summer,Others,full sleeves,cotton,Missing,sequined,solid,0,19.0,91.0,74.0,211.0
+100,835787654,Casual,Average,4.7,Large,Summer,v-neck,short,Missing,Missing,Missing,print,1,263.0,1833.0,1580.0,4155.0
+101,1148457078,Casual,Low,0.0,Free,Winter,o-neck,half sleeves,polyster,worsted,Missing,patchwork,1,193.0,1062.0,762.0,2013.0
+102,887476609,bohemian,Low,4.8,Free,Summer,o-neck,short,Missing,Missing,Missing,animal,1,551.0,2967.0,2075.0,5644.0
+103,535968075,work,Medium,4.6,Large,Winter,Others,short,cotton,Missing,Others,solid,0,1268.0,6366.0,3910.0,10603.0
+104,892801580,vintage,Average,4.7,Large,Summer,o-neck,short,cotton,Missing,Others,solid,0,326.0,1669.0,1099.0,2977.0
+105,732650169,cute,Low,4.7,Medium,Spring,o-neck,short,polyster,chiffon,ruffles,dot,1,1890.0,9858.0,6218.0,16685.0
+106,680070369,Casual,Low,4.6,Free,Autumn,o-neck,full sleeves,cotton,Missing,Missing,solid,1,469.0,2510.0,1725.0,4718.0
+107,1002440915,Casual,Medium,0.0,Free,Spring,o-neck,sleeve less,cotton,broadcloth,sequined,solid,1,79.0,365.0,248.0,653.0
+108,737538048,Casual,Average,4.7,Large,Autumn,o-neck,half sleeves,Missing,Missing,Others,Missing,0,3466.0,16731.0,9885.0,27461.0
+109,1104450248,Sexy,Average,0.0,Large,Autumn,v-neck,sleeve less,Missing,chiffon,Missing,patchwork,0,77.0,620.0,611.0,1762.0
+110,797673346,Casual,Low,4.7,Free,Winter,o-neck,sleeve less,cotton,jersey,Missing,solid,1,1261.0,4918.0,2571.0,8267.0
+111,1039982741,Casual,Average,0.0,Medium,Autumn,o-neck,short,polyster,Missing,applique,print,0,47.0,148.0,106.0,303.0
+112,829087315,cute,Average,4.8,Large,Autumn,slash-neck,sleeve less,Missing,chiffon,hollowout,solid,0,357.0,1877.0,1348.0,3624.0
+113,1032990258,party,Average,5.0,Medium,Spring,o-neck,half sleeves,Missing,Missing,Missing,Missing,1,98.0,605.0,491.0,1329.0
+114,939422280,cute,Average,4.3,Large,Winter,o-neck,sleeve less,Missing,chiffon,Missing,solid,0,353.0,2223.0,1833.0,4661.0
+115,974746803,Casual,Average,4.5,Large,Spring,o-neck,short,cotton,chiffon,Missing,patchwork,0,191.0,1008.0,726.0,1884.0
+116,1018130478,Casual,Low,4.7,Large,Autumn,o-neck,full sleeves,cotton,chiffon,Others,print,0,310.0,1703.0,1242.0,3365.0
+117,956758119,Casual,Low,4.5,Free,Autumn,v-neck,short,silk,worsted,Others,solid,0,387.0,2071.0,1497.0,3913.0
+118,903426442,sexy,Average,3.6,Large,Winter,v-neck,full sleeves,polyster,Others,beading,solid,1,942.0,4749.0,2780.0,
+119,861626197,work,Average,4.8,Large,Winter,v-neck,short,mix,broadcloth,Others,solid,0,1166.0,5814.0,3769.0,10090.0
+120,1077015977,vintage,Average,0.0,Free,Summer,o-neck,sleeve less,Missing,Missing,Missing,Missing,0,6.0,26.0,20.0,56.0
+121,817870237,Sexy,Low,4.6,Free,Spring,o-neck,full sleeves,Missing,Missing,Others,leopard,1,184.0,1053.0,786.0,2201.0
+122,1078996836,Sexy,Low,0.0,Free,Winter,v-neck,sleeve less,cotton,chiffon,Missing,solid,1,57.0,385.0,346.0,960.0
+123,881530990,work,Average,4.6,Large,Spring,o-neck,short,cotton,jersey,Missing,patchwork,0,599.0,3158.0,2091.0,5667.0
+124,937046375,Casual,Average,4.4,Medium,Summer,o-neck,short,Missing,Missing,Others,patchwork,0,268.0,1040.0,569.0,1562.0
+125,893330898,Sexy,Low,4.6,Free,Summer,v-neck,sleeve less,cotton,broadcloth,beading,solid,0,383.0,2076.0,1488.0,3905.0
+126,822053936,party,Average,4.4,Free,Autumn,v-neck,three quater,Missing,Missing,Missing,solid,0,217.0,1065.0,654.0,1732.0
+127,1059959935,Casual,Average,0.0,Free,Spring,o-neck,short,cotton,Missing,Others,Missing,1,3.0,15.0,11.0,24.0
+128,1197204708,Casual,Low,0.0,Medium,Summer,v-neck,full sleeves,Others,Missing,Others,solid,0,256.0,1193.0,792.0,2144.0
+129,713439584,Sexy,Average,4.6,Medium,Winter,o-neck,full sleeves,polyster,Missing,Missing,patchwork,1,515.0,2652.0,1760.0,4813.0
+130,732736124,work,Average,4.6,Medium,Spring,v-neck,full sleeves,Missing,chiffon,Missing,Missing,0,130.0,863.0,702.0,1920.0
+131,709353440,cute,Average,4.7,Large,Winter,o-neck,sleeve less,chiffonfabric,Missing,Others,solid,0,280.0,1473.0,1076.0,2982.0
+132,1031230798,bohemian,Average,4.7,Large,Autumn,o-neck,sleeve less,Missing,chiffon,Missing,solid,0,139.0,719.0,537.0,1451.0
+133,1225512606,cute,High,0.0,Medium,Winter,o-neck,three quater,silk,chiffon,Others,patchwork,0,11.0,42.0,35.0,104.0
+134,1158347154,Casual,Average,0.0,Extra large,Winter,o-neck,short,polyster,Missing,Others,solid,0,31.0,309.0,305.0,815.0
+135,976975672,Others,Average,4.9,Large,Autumn,o-neck,short,polyster,chiffon,Missing,print,1,101.0,546.0,411.0,1168.0
+136,520233308,Casual,Low,4.7,Medium,Autumn,o-neck,full sleeves,cotton,Missing,Missing,solid,0,603.0,3082.0,2047.0,5309.0
+137,935827969,cute,Average,4.3,Free,Summer,boat-neck,sleeve less,Missing,Missing,Missing,Missing,1,90.0,491.0,368.0,1003.0
+138,1130624045,Sexy,Low,0.0,Free,Autumn,slash-neck,short,Missing,Missing,hollowout,solid,0,19.0,232.0,281.0,546.0
+139,547555172,cute,Low,4.7,Extra large,Summer,o-neck,short,chiffonfabric,chiffon,bow,print,0,1322.0,6500.0,3825.0,10125.0
+140,1083323104,Sexy,Low,4.5,Large,Spring,o-neck,sleeve less,Missing,Missing,Others,solid,0,322.0,2136.0,1827.0,4545.0
+141,955188745,Casual,Average,4.7,Medium,Autumn,o-neck,sleeve less,cotton,Missing,Missing,animal,1,305.0,1552.0,1107.0,2797.0
+142,1140306858,Casual,Average,0.0,Large,Spring,boat-neck,sleeve less,cotton,Missing,Others,solid,1,79.0,539.0,524.0,1397.0
+143,895807023,cute,Low,4.7,Free,Summer,o-neck,sleeve less,Missing,chiffon,Missing,print,1,399.0,1923.0,1326.0,3703.0
+144,818505402,Casual,Low,4.4,Free,Summer,turndowncollor,sleeve less,cotton,Missing,Missing,solid,0,34.0,173.0,137.0,373.0
+145,897981100,Casual,Average,4.8,Large,Winter,v-neck,short,polyster,Missing,ruffles,solid,0,69.0,464.0,398.0,1155.0
+146,973481686,vintage,Average,4.3,Free,Winter,o-neck,short,chiffonfabric,chiffon,Missing,print,0,548.0,2708.0,1652.0,4397.0
+147,1021375534,cute,Low,4.5,Large,Summer,o-neck,sleeve less,cotton,chiffon,sashes,solid,1,411.0,2083.0,1379.0,3682.0
+148,549437715,Casual,Average,4.4,Medium,Summer,turndowncollor,sleeve less,chiffonfabric,chiffon,Missing,solid,0,1891.0,9492.0,5741.0,15176.0
+149,1097548715,vintage,Medium,0.0,Small,Winter,turndowncollor,half sleeves,cotton,broadcloth,Missing,Others,0,15.0,84.0,64.0,172.0
+150,578702321,Sexy,Low,4.7,Free,Summer,turndowncollor,sleeve less,cotton,Missing,Missing,solid,1,59.0,281.0,169.0,485.0
+151,1155548915,vintage,High,0.0,Large,Summer,o-neck,short,cotton,Missing,Missing,print,0,6.0,27.0,20.0,56.0
+152,1199064757,Casual,Low,0.0,Free,Spring,v-neck,three quater,silk,Missing,Others,Missing,1,2.0,8.0,6.0,16.0
+153,1078994436,Sexy,Average,0.0,Small,Autumn,slash-neck,short,Missing,Missing,Others,solid,0,5.0,30.0,25.0,65.0
+154,949226757,Casual,Low,0.0,Free,Spring,o-neck,short,Missing,Missing,hollowout,solid,0,64.0,690.0,737.0,2174.0
+155,832191944,cute,Medium,5.0,Free,Winter,o-neck,sleeve less,silk,Missing,Others,solid,1,4.0,19.0,15.0,40.0
+156,869572905,Casual,Low,4.7,Free,Summer,o-neck,sleeve less,Missing,Missing,Missing,print,0,257.0,1294.0,865.0,2349.0
+157,896048351,Sexy,Low,4.8,Free,Spring,v-neck,sleeve less,Missing,Missing,sequined,solid,1,167.0,919.0,706.0,1780.0
+158,854444464,Casual,Average,4.5,Large,Winter,o-neck,short,cotton,Missing,bow,patchwork,0,466.0,2327.0,1482.0,4016.0
+159,1246749980,vintage,Average,0.0,Small,Spring,o-neck,full sleeves,mix,chiffon,embroidary,print,0,48.0,1324.0,1544.0,3999.0
+160,849613634,Casual,Average,3.7,Free,Autumn,boat-neck,full sleeves,Missing,Missing,Missing,solid,1,18.0,85.0,57.0,146.0
+161,1019768234,vintage,Average,4.8,Large,Winter,o-neck,sleeve less,cotton,Missing,Missing,patchwork,0,309.0,2066.0,1796.0,4651.0
+162,785830491,cute,Average,0.0,Extra large,Spring,boat-neck,full sleeves,cotton,worsted,applique,dot,1,14.0,70.0,57.0,152.0
+163,832391864,Casual,Average,0.0,Large,Winter,Others,short,mix,Others,applique,solid,1,36.0,176.0,129.0,364.0
+164,1069595866,sexy,Medium,5.0,Medium,Winter,o-neck,sleeve less,polyster,Missing,bow,solid,0,3.0,15.0,10.0,28.0
+165,733715437,Brief,Average,4.9,Free,Summer,slash-neck,sleeve less,Missing,Missing,Missing,solid,0,375.0,1862.0,1162.0,3160.0
+166,828949946,Casual,High,4.9,Small,Spring,o-neck,three quater,Missing,Missing,Missing,dot,1,363.0,1770.0,1094.0,2933.0
+167,765264430,Brief,Average,4.6,Free,Winter,o-neck,full sleeves,mix,Missing,sashes,solid,0,576.0,2969.0,2005.0,5709.0
+168,722020708,Casual,Low,4.5,Free,Winter,o-neck,full sleeves,mix,worsted,applique,solid,0,568.0,2887.0,1795.0,4726.0
+169,980295760,Casual,Low,4.8,Extra large,Summer,o-neck,short,mix,chiffon,sashes,geometric,0,285.0,1459.0,1017.0,2871.0
+170,913978120,Sexy,Medium,4.6,Large,Summer,o-neck,short,Others,jersey,Others,solid,0,900.0,4611.0,2937.0,7913.0
+171,1051749304,work,Average,0.0,Small,Autumn,o-neck,sleeve less,Others,Missing,Missing,patchwork,0,17.0,74.0,63.0,182.0
+172,1206128856,Casual,Low,0.0,Large,Winter,o-neck,sleeve less,polyster,Missing,Missing,leopard,0,112.0,1488.0,1573.0,3122.0
+173,956453735,cute,Low,5.0,Large,Winter,o-neck,three quater,silk,chiffon,sashes,print,0,93.0,454.0,355.0,1004.0
+174,767971724,Brief,Average,4.3,Medium,Spring,o-neck,full sleeves,mix,worsted,sequined,patchwork,1,72.0,450.0,378.0,988.0
+175,722565148,Sexy,Low,4.4,Free,Autumn,o-neck,full sleeves,cotton,Missing,Missing,leopard,0,868.0,4371.0,2663.0,6846.0
+176,1167448608,cute,Low,0.0,Free,Summer,Others,short,cotton,broadcloth,applique,print,0,37.0,196.0,152.0,428.0
+177,549159213,Casual,Average,4.5,Free,Summer,o-neck,short,cotton,Missing,Missing,solid,1,259.0,1301.0,834.0,2303.0
+178,940918554,Sexy,Low,4.7,Medium,Winter,slash-neck,sleeve less,nylon,Missing,sashes,solid,1,73.0,436.0,369.0,992.0
+179,522776523,Casual,Low,4.7,Free,Spring,o-neck,sleeve less,cotton,chiffon,Missing,Others,0,510.0,2557.0,1666.0,4681.0
+180,658650071,Casual,Medium,4.8,Medium,Winter,Others,short,polyster,chiffon,Others,patchwork,0,810.0,3840.0,2132.0,5825.0
+181,123456789,Sexy,Low,4.3,Free,Winter,v-neck,sleeve less,silk,worsted,Others,solid,1,336.0,1081.0,762.0,2923.0
+182,1150052066,bohemian,Average,0.0,Large,Winter,turndowncollor,full sleeves,mix,Missing,Missing,solid,0,187.0,1070.0,903.0,2316.0
+184,886351969,cute,Medium,4.8,Free,Spring,slash-neck,sleeve less,polyster,chiffon,sashes,solid,1,443.0,2233.0,1381.0,3736.0
+185,1071947910,Sexy,Average,0.0,Small,Autumn,v-neck,sleeve less,cotton,Missing,beading,solid,0,3.0,21.0,15.0,34.0
+186,813753347,Casual,Low,4.6,Small,Spring,o-neck,full sleeves,cotton,Missing,Missing,solid,1,1802.0,9159.0,5715.0,14987.0
+187,733134203,vintage,Medium,4.7,Free,Spring,turndowncollor,sleeve less,mix,Missing,Others,solid,1,153.0,881.0,692.0,1910.0
+188,851256794,work,Low,4.7,Free,Summer,o-neck,full sleeves,cotton,Missing,Missing,solid,0,41.0,194.0,127.0,354.0
+189,751049573,cute,Average,4.8,Medium,Summer,o-neck,short,cotton,Missing,Others,solid,0,121.0,569.0,357.0,927.0
+190,882490248,cute,Average,0.0,Medium,Summer,o-neck,short,cotton,chiffon,Missing,print,0,284.0,1599.0,1207.0,3192.0
+191,541172235,Casual,Average,4.7,Medium,Winter,o-neck,full sleeves,Missing,Missing,Missing,animal,0,736.0,3328.0,2192.0,5961.0
+192,727676110,Casual,Low,4.6,Free,Winter,o-neck,full sleeves,polyster,Missing,applique,solid,1,79.0,585.0,568.0,1334.0
+193,891631697,party,Average,5.0,Free,Summer,v-neck,sleeve less,Missing,Missing,Missing,Missing,0,113.0,510.0,382.0,1120.0
+194,1059306768,Casual,Average,0.0,Free,Summer,v-neck,sleeve less,cotton,chiffon,Missing,patchwork,0,2.0,9.0,7.0,20.0
+195,764321904,Sexy,Average,5.0,Large,Winter,o-neck,three quater,polyster,Missing,Others,geometric,0,28.0,186.0,177.0,415.0
+196,902108125,Sexy,Average,4.8,Free,Winter,o-neck,sleeve less,polyster,Missing,embroidary,solid,0,169.0,888.0,614.0,1631.0
+197,874397327,Casual,Average,4.7,Small,Summer,v-neck,short,cotton,Missing,Missing,dot,0,251.0,1295.0,868.0,2423.0
+198,861698160,Casual,Average,4.1,Medium,Autumn,v-neck,full sleeves,Missing,chiffon,sashes,Missing,1,119.0,595.0,415.0,1054.0
+199,981437831,Casual,Average,5.0,Extra large,Autumn,o-neck,short,chiffonfabric,chiffon,Missing,Missing,0,55.0,337.0,300.0,760.0
+200,1036456647,Sexy,Average,5.0,Medium,Summer,v-neck,sleeve less,cotton,Missing,sequined,solid,1,19.0,110.0,101.0,221.0
+201,951280194,work,Average,4.6,Large,Summer,slash-neck,short,cotton,Missing,Missing,solid,0,390.0,2124.0,1524.0,4051.0
+202,747381880,vintage,Average,4.5,Large,Autumn,o-neck,sleeve less,Missing,worsted,Missing,solid,0,1103.0,5483.0,3399.0,9041.0
+203,1099363892,Casual,Average,0.0,Medium,Summer,o-neck,three quater,nylon,broadcloth,Missing,solid,1,169.0,903.0,753.0,2527.0
+204,941333009,cute,Average,4.7,Large,Summer,o-neck,sleeve less,cotton,worsted,Missing,print,0,139.0,825.0,645.0,1711.0
+205,819651586,bohemian,Low,4.7,Free,Winter,o-neck,short,nylon,Missing,sashes,print,0,229.0,1217.0,824.0,1955.0
+206,1043590098,Casual,Low,5.0,Free,Spring,slash-neck,sleeve less,Others,Missing,Missing,striped,1,108.0,571.0,423.0,1321.0
+207,1091666465,Casual,Average,5.0,Medium,Winter,o-neck,sleeve less,Missing,chiffon,sashes,solid,1,13.0,70.0,56.0,155.0
+208,771972560,work,Low,4.5,Medium,Winter,v-neck,three quater,Missing,Missing,Missing,patchwork,0,446.0,2142.0,1294.0,3553.0
+209,756492184,Casual,Average,4.3,Small,Spring,boat-neck,full sleeves,cotton,Missing,Others,patchwork,1,72.0,306.0,166.0,498.0
+210,1097157656,Casual,Average,4.4,Large,Autumn,o-neck,half sleeves,Missing,Others,Others,animal,0,146.0,744.0,497.0,1374.0
+211,573923366,sexy,Low,4.3,Medium,Autumn,Others,short,Others,Missing,Others,print,0,350.0,1773.0,1127.0,3046.0
+212,756620535,Casual,Low,4.6,Free,Summer,o-neck,full sleeves,cotton,worsted,Others,solid,1,280.0,1606.0,1229.0,3188.0
+213,765350508,Casual,Low,4.6,Large,Winter,o-neck,full sleeves,cotton,Missing,Missing,Missing,0,436.0,2304.0,1624.0,4354.0
+214,968294356,Casual,Average,4.6,Medium,Spring,o-neck,sleeve less,Missing,chiffon,sashes,solid,1,716.0,3606.0,2297.0,6235.0
+215,1017678811,Casual,Low,0.0,Free,Autumn,Others,three quater,Missing,Missing,Missing,Missing,0,2.0,12.0,8.0,27.0
+216,1199765487,Casual,Average,0.0,Small,Summer,o-neck,sleeve less,cotton,Missing,Missing,solid,0,1.0,5.0,3.0,8.0
+217,965817793,Casual,Low,4.8,Free,Summer,o-neck,sleeve less,cotton,Missing,Missing,print,1,296.0,1688.0,1224.0,3237.0
+218,1074432879,Casual,Average,5.0,Small,Winter,o-neck,sleeve less,polyster,chiffon,Missing,Others,0,44.0,225.0,157.0,451.0
+219,1132858821,Sexy,very-high,0.0,Free,Winter,v-neck,sleeve less,polyster,Others,Missing,solid,0,2.0,9.0,7.0,21.0
+220,905732124,Casual,Low,4.4,Free,Summer,o-neck,sleeve less,polyster,Missing,sashes,print,0,98.0,608.0,501.0,1282.0
+221,711045472,Casual,Average,4.8,Medium,Autumn,v-neck,short,Missing,chiffon,embroidary,print,1,216.0,1060.0,633.0,1651.0
+222,923983419,Casual,Average,5.0,Free,Summer,v-neck,sleeve less,Others,Missing,Missing,patchwork,0,31.0,147.0,95.0,249.0
+223,733025646,Sexy,Low,4.8,Medium,Autumn,v-neck,full sleeves,cotton,Missing,Missing,print,1,868.0,4115.0,2297.0,6181.0
+224,720099861,Casual,Average,4.6,Free,Winter,v-neck,full sleeves,cotton,Others,Missing,striped,0,854.0,4289.0,2595.0,6995.0
+225,923915314,Casual,Average,4.6,Medium,Winter,v-neck,full sleeves,chiffonfabric,chiffon,Missing,Missing,0,331.0,1768.0,1246.0,3334.0
+226,1077555214,Casual,Low,5.0,Small,Spring,o-neck,sleeve less,chiffonfabric,Missing,Missing,print,0,62.0,592.0,603.0,1257.0
+227,1216538883,cute,Average,0.0,Medium,Winter,o-neck,short,polyster,chiffon,sashes,solid,0,237.0,1941.0,1861.0,5454.0
+228,531254082,Casual,Low,4.8,Free,Spring,o-neck,sleeve less,chiffonfabric,chiffon,Missing,print,1,348.0,1621.0,1119.0,2999.0
+229,890279029,Casual,Average,4.6,Medium,Autumn,o-neck,short,polyster,Missing,applique,dot,0,138.0,858.0,680.0,2002.0
+230,995964089,bohemian,Average,5.0,Medium,Spring,slash-neck,sleeve less,Missing,chiffon,ruffles,solid,1,17.0,89.0,74.0,224.0
+231,868453353,Casual,Low,4.9,Free,Winter,o-neck,sleeve less,silk,Missing,sashes,print,1,29.0,142.0,106.0,296.0
+232,1024954013,Casual,Average,4.7,Large,Summer,o-neck,sleeve less,silk,chiffon,beading,solid,0,285.0,1408.0,906.0,2422.0
+233,685606338,Casual,Medium,4.6,Medium,Winter,o-neck,full sleeves,Others,Missing,Missing,solid,1,201.0,1063.0,700.0,1866.0
+234,877962269,Casual,Average,4.7,Medium,Winter,v-neck,sleeve less,polyster,chiffon,applique,print,0,45.0,355.0,324.0,824.0
+235,995644296,Sexy,Average,4.7,Medium,Winter,v-neck,sleeve less,polyster,broadcloth,Missing,patchwork,0,283.0,1609.0,1218.0,3135.0
+236,1066273951,Casual,Average,3.5,Medium,Winter,v-neck,short,Missing,Missing,Missing,solid,0,50.0,254.0,196.0,554.0
+237,822176645,Casual,Average,4.8,Medium,Winter,o-neck,three quater,Missing,Missing,Missing,print,1,233.0,1259.0,920.0,2422.0
+238,659466129,Casual,Average,0.0,Medium,Winter,o-neck,full sleeves,cotton,jersey,Others,solid,1,1.0,8.0,8.0,19.0
+239,694493217,Casual,Low,4.6,Medium,Summer,o-neck,sleeve less,cotton,Missing,sashes,striped,0,264.0,1360.0,896.0,3082.0
+240,793162246,Casual,Average,4.7,Large,Spring,v-neck,half sleeves,Missing,broadcloth,Missing,print,1,1435.0,6949.0,4032.0,11801.0
+241,817945281,Casual,Low,4.5,Free,Summer,o-neck,full sleeves,cotton,Missing,Others,solid,0,94.0,464.0,364.0,1059.0
+242,920902282,Casual,Average,4.7,Medium,Summer,o-neck,sleeve less,polyster,Missing,Missing,Others,0,176.0,993.0,728.0,1841.0
+243,727820291,Casual,Low,4.5,Medium,Winter,o-neck,short,chiffonfabric,chiffon,Missing,solid,0,336.0,1686.0,1057.0,2924.0
+244,1197211965,cute,Low,0.0,Free,Summer,boat-neck,sleeve less,cotton,Missing,Missing,print,0,8.0,39.0,25.0,69.0
+245,682561447,party,very-high,5.0,Medium,Spring,slash-neck,sleeve less,chiffonfabric,chiffon,Others,Missing,1,66.0,341.0,224.0,605.0
+246,999081623,Casual,Average,4.9,Medium,Autumn,v-neck,sleeve less,polyster,Missing,Missing,Missing,1,73.0,980.0,581.0,817.0
+247,1108613896,party,very-high,0.0,Large,Winter,v-neck,sleeve less,polyster,Others,beading,Missing,0,1.0,5.0,3.0,8.0
+248,1054555186,party,very-high,0.0,Medium,Winter,v-neck,Others,Missing,chiffon,Others,Missing,0,3.0,14.0,11.0,37.0
+249,915238287,Casual,Low,4.4,Medium,Winter,v-neck,Others,cotton,Missing,Missing,Missing,1,117.0,520.0,442.0,1450.0
+250,1107279894,party,very-high,0.0,Medium,Spring,v-neck,three quater,Others,Others,applique,Missing,1,1.0,7.0,6.0,24.0
+251,1163040038,party,High,0.0,Medium,Winter,Others,sleeve less,Missing,Missing,Others,Missing,0,2.0,8.0,7.0,24.0
+252,1091877430,party,High,0.0,Medium,Spring,Others,sleeve less,nylon,Missing,Missing,Missing,0,1.0,4.0,3.0,10.0
+253,1053467336,party,Average,5.0,Medium,Winter,o-neck,Others,polyster,Missing,Others,Missing,1,59.0,192.0,140.0,489.0
+254,609889168,party,High,4.7,Medium,Winter,Others,sleeve less,Missing,chiffon,Others,Missing,0,181.0,581.0,409.0,1557.0
+257,963684109,party,very-high,4.9,Medium,Spring,Others,sleeve less,Missing,chiffon,beading,Missing,1,49.0,176.0,138.0,490.0
+258,619817668,party,High,4.6,Medium,Winter,Others,sleeve less,Missing,chiffon,Missing,Missing,0,215.0,626.0,406.0,1682.0
+259,1066740059,party,Average,5.0,Medium,Spring,Others,sleeve less,polyster,Missing,Missing,Missing,1,51.0,285.0,263.0,712.0
+260,732184480,party,very-high,4.8,Large,Spring,Others,sleeve less,microfiber,Others,beading,Missing,1,51.0,160.0,109.0,442.0
+261,1044683061,party,very-high,0.0,Medium,Winter,Others,sleeve less,polyster,chiffon,beading,Missing,1,21.0,80.0,67.0,238.0
+262,579010251,party,High,4.6,Large,Spring,slash-neck,sleeve less,silk,chiffon,beading,Missing,0,52.0,187.0,144.0,494.0
+264,898316819,party,Medium,4.6,Small,Winter,Others,short,Missing,Missing,Others,Missing,0,57.0,211.0,169.0,616.0
+265,622667306,party,very-high,4.9,Medium,Spring,Others,sleeve less,silk,chiffon,beading,Missing,1,70.0,229.0,168.0,627.0
+266,809344968,party,Medium,4.8,Small,Spring,v-neck,sleeve less,Missing,Missing,Missing,Missing,1,362.0,1279.0,966.0,3453.0
+267,754138176,party,very-high,4.2,Large,Winter,v-neck,sleeve less,Missing,Missing,Others,Missing,1,222.0,668.0,449.0,1854.0
+268,674192921,Casual,Low,4.4,Free,Summer,o-neck,sleeve less,Missing,Missing,Missing,Missing,1,226.0,666.0,442.0,1735.0
+269,726446177,party,very-high,4.1,Medium,Winter,Others,short,cotton,Others,applique,Missing,1,141.0,446.0,309.0,1186.0
+270,1193747589,party,very-high,0.0,Medium,Winter,o-neck,full sleeves,Missing,Missing,Others,Missing,1,2.0,6.0,4.0,16.0
+271,676827184,Casual,High,4.6,Medium,Summer,Others,sleeve less,Missing,Missing,beading,Missing,1,81.0,268.0,201.0,722.0
+272,619996560,party,Average,4.7,Free,Winter,o-neck,sleeve less,polyster,Missing,Missing,Missing,0,228.0,697.0,469.0,1830.0
+273,618420156,party,very-high,4.7,Large,Winter,slash-neck,sleeve less,Others,chiffon,beading,Missing,1,94.0,286.0,194.0,772.0
+274,689486739,party,very-high,4.5,Medium,Spring,v-neck,Others,Missing,Missing,Others,Missing,1,27.0,79.0,50.0,203.0
+275,751364614,party,Average,4.7,Free,Spring,Others,sleeve less,rayon,chiffon,beading,solid,1,71.0,285.0,234.0,807.0
+276,825341937,party,High,4.8,Medium,Summer,Others,sleeve less,Missing,Others,Missing,Missing,1,99.0,311.0,213.0,811.0
+277,736813752,party,High,4.6,Medium,Summer,slash-neck,sleeve less,Missing,chiffon,Missing,Missing,1,42.0,123.0,80.0,326.0
+278,636178374,party,Medium,4.7,Medium,Winter,o-neck,sleeve less,cotton,chiffon,Others,Missing,1,149.0,418.0,259.0,1103.0
+279,743485617,cute,Average,4.4,Free,Spring,Others,sleeve less,Others,Others,Others,solid,1,135.0,434.0,310.0,1223.0
+280,933951149,party,Average,5.0,Medium,Spring,o-neck,sleeve less,Missing,Missing,Missing,Missing,1,115.0,370.0,269.0,1056.0
+281,684561284,party,very-high,4.8,Free,Spring,Others,sleeve less,polyster,chiffon,beading,Missing,1,65.0,206.0,145.0,553.0
+282,616295248,party,Medium,4.8,Medium,Spring,o-neck,sleeve less,silk,chiffon,Others,Missing,1,173.0,535.0,363.0,1438.0
+283,736076633,party,very-high,4.9,Large,Spring,slash-neck,sleeve less,Missing,chiffon,Others,Missing,1,98.0,305.0,211.0,811.0
+284,1108073621,party,Medium,0.0,Free,Winter,v-neck,short,Missing,chiffon,Others,Missing,1,3.0,14.0,12.0,44.0
+285,1053002876,work,Average,5.0,Free,Winter,o-neck,half sleeves,microfiber,Missing,Missing,Missing,0,24.0,78.0,57.0,214.0
+286,444282011,party,very-high,4.9,Medium,Spring,v-neck,sleeve less,Missing,Others,beading,Missing,1,76.0,250.0,184.0,660.0
+287,949336768,Casual,High,5.0,Free,Summer,v-neck,sleeve less,nylon,Missing,Missing,Missing,1,29.0,90.0,62.0,240.0
+288,961972778,Casual,very-high,0.0,Small,Spring,o-neck,full sleeves,Missing,chiffon,applique,Missing,0,1.0,6.0,7.0,27.0
+289,893088817,Casual,Medium,4.7,Medium,Spring,o-neck,sleeve less,cotton,Missing,bow,Missing,1,26.0,95.0,71.0,252.0
+290,952724683,party,Average,0.0,Medium,Spring,v-neck,sleeve less,Missing,Missing,Missing,Missing,1,4.0,14.0,12.0,41.0
+291,855037000,Casual,Average,4.4,Free,Summer,slash-neck,sleeve less,cotton,Missing,Missing,Missing,1,24.0,102.0,88.0,286.0
+292,660016574,Casual,very-high,4.6,Medium,Winter,o-neck,short,Missing,Missing,Others,Missing,1,81.0,275.0,202.0,729.0
+293,738079582,Casual,Low,4.4,Free,Winter,Others,sleeve less,Missing,Missing,Others,Missing,1,151.0,505.0,363.0,1336.0
+294,861001391,party,High,4.5,Medium,Winter,o-neck,sleeve less,Missing,Missing,Missing,Missing,1,82.0,275.0,202.0,785.0
+295,1099696103,Casual,Average,4.8,Free,Summer,o-neck,sleeve less,Missing,Missing,Missing,Missing,0,66.0,219.0,162.0,582.0
+296,1044288976,Sexy,Average,5.0,Medium,Summer,o-neck,sleeve less,polyster,broadcloth,Others,Missing,0,16.0,71.0,58.0,198.0
+297,890848361,vintage,Average,4.9,Free,Summer,o-neck,Others,Missing,Missing,Missing,Missing,0,43.0,213.0,190.0,608.0
+298,929503394,vintage,Average,4.7,Small,Summer,turndowncollor,short,cotton,Missing,Missing,Missing,0,239.0,1059.0,872.0,2677.0
+299,1015249105,work,Average,4.9,Medium,Summer,Others,half sleeves,polyster,Others,sashes,Missing,0,213.0,1060.0,948.0,2984.0
+300,707537639,Casual,Low,4.7,Large,Spring,o-neck,short,chiffonfabric,chiffon,Missing,Missing,0,1283.0,3392.0,2012.0,9538.0
+301,702984554,Casual,Average,4.8,Large,Autumn,o-neck,short,Others,Missing,Missing,Missing,0,109.0,378.0,278.0,1030.0
+302,1023830972,Casual,Average,0.0,Small,Winter,slash-neck,half sleeves,nylon,broadcloth,Missing,Missing,0,26.0,134.0,119.0,421.0
+303,959052557,Casual,Average,4.2,Small,Winter,v-neck,sleeve less,Others,chiffon,hollowout,patchwork,0,282.0,889.0,617.0,2419.0
+304,1246945687,Others,Average,0.0,Free,Summer,o-neck,full sleeves,cotton,Others,hollowout,solid,0,26.0,132.0,110.0,405.0
+305,510519284,Casual,Low,4.3,Free,Summer,Others,sleeve less,chiffonfabric,chiffon,Others,Missing,0,190.0,600.0,408.0,1690.0
+306,1079958917,Casual,Average,3.7,Medium,Summer,boat-neck,sleeve less,Others,Missing,Missing,Missing,0,113.0,559.0,501.0,1542.0
+307,1024325244,Casual,Average,5.0,Free,Winter,o-neck,sleeve less,polyster,broadcloth,Others,Missing,1,22.0,76.0,57.0,206.0
+308,1104504876,cute,Low,0.0,Free,Winter,o-neck,sleeve less,Missing,chiffon,Missing,Missing,0,13.0,118.0,114.0,378.0
+309,1010356223,vintage,Average,4.8,Medium,Summer,v-neck,full sleeves,rayon,Others,Missing,Missing,1,48.0,157.0,110.0,423.0
+310,908989488,bohemian,Average,0.0,Free,Spring,o-neck,sleeve less,rayon,chiffon,Missing,striped,1,2.0,7.0,5.0,25.0
+311,822081627,Sexy,Average,4.5,Medium,Summer,Others,sleeve less,cotton,chiffon,Missing,solid,0,746.0,2368.0,1630.0,6437.0
+312,1116072373,Others,Medium,4.2,Medium,Winter,o-neck,half sleeves,polyster,chiffon,hollowout,animal,1,50.0,176.0,134.0,503.0
+313,856139963,Casual,Low,5.0,Free,Spring,v-neck,full sleeves,cotton,Missing,Missing,solid,1,50.0,257.0,219.0,735.0
+314,1032982013,Casual,Average,5.0,Large,Winter,o-neck,three quater,polyster,Missing,applique,solid,0,33.0,306.0,316.0,797.0
+315,879756967,Casual,Low,4.8,Medium,Winter,v-neck,sleeve less,polyster,Missing,Missing,print,0,748.0,2483.0,1739.0,6728.0
+316,912614690,bohemian,Low,5.0,Free,Spring,o-neck,short,nylon,jersey,sashes,print,1,19.0,86.0,76.0,248.0
+317,1072784739,Casual,Low,5.0,Free,Spring,Others,sleeve less,silk,chiffon,applique,print,0,134.0,522.0,422.0,1343.0
+318,945651303,Casual,Low,5.0,Medium,Spring,o-neck,sleeve less,chiffonfabric,chiffon,Missing,solid,1,19.0,160.0,160.0,457.0
+320,1219677488,Others,Average,0.0,Free,Winter,o-neck,short,polyster,broadcloth,Others,Missing,1,73.0,406.0,435.0,1096.0
+321,886501087,cute,Low,0.0,Large,Spring,o-neck,sleeve less,Missing,Missing,Missing,Missing,1,7.0,23.0,17.0,66.0
+322,944264938,Sexy,Low,4.8,Free,Spring,slash-neck,sleeve less,cotton,broadcloth,sequined,solid,0,98.0,342.0,247.0,957.0
+323,918722829,Sexy,Low,4.8,Free,Summer,slash-neck,sleeve less,silk,Missing,Others,solid,0,81.0,359.0,301.0,1137.0
+324,750670078,Casual,Low,4.4,Medium,Winter,o-neck,sleeve less,polyster,Missing,Missing,solid,0,805.0,2426.0,1602.0,6526.0
+325,1028061165,Casual,Average,4.5,Medium,Winter,o-neck,sleeve less,polyster,chiffon,Others,striped,0,70.0,268.0,204.0,763.0
+326,699738864,Casual,Low,4.7,Small,Summer,o-neck,full sleeves,cotton,Missing,Missing,patchwork,0,267.0,1352.0,919.0,2418.0
+327,961230947,work,Average,4.9,Medium,Winter,slash-neck,short,polyster,broadcloth,ruffles,solid,0,56.0,203.0,158.0,581.0
+328,849947393,cute,Medium,4.6,Free,Spring,o-neck,short,chiffonfabric,Missing,hollowout,solid,1,213.0,783.0,591.0,2205.0
+329,857432541,Casual,Low,4.7,Free,Spring,o-neck,half sleeves,silk,chiffon,sashes,print,0,57.0,236.0,192.0,669.0
+330,1088674674,Casual,Low,4.7,Medium,Winter,o-neck,full sleeves,polyster,chiffon,Missing,print,1,47.0,230.0,200.0,621.0
+331,939250541,Casual,Average,4.8,Medium,Spring,o-neck,sleeve less,cotton,chiffon,hollowout,print,0,55.0,371.0,362.0,1078.0
+332,432154321,Sexy,Low,4.8,Large,Summer,o-neck,sleeve less,cotton,Missing,Missing,solid,1,85.0,359.0,292.0,2192.0
+333,880692544,Casual,Average,4.7,Extra large,Winter,v-neck,short,milksilk,Missing,Missing,print,0,44.0,180.0,137.0,487.0
+334,958270190,Casual,Low,0.0,Large,Winter,v-neck,full sleeves,Missing,Missing,Missing,solid,0,23.0,167.0,170.0,533.0
+335,732757918,Sexy,Average,4.7,Medium,Autumn,slash-neck,sleeve less,nylon,Missing,Others,solid,0,1088.0,3265.0,2190.0,8941.0
+336,898646576,Casual,Low,4.7,Free,Winter,o-neck,sleeve less,Missing,Missing,Missing,Missing,1,234.0,839.0,632.0,2364.0
+337,950048509,Casual,High,0.0,Large,Winter,v-neck,full sleeves,polyster,Missing,Missing,solid,0,28.0,124.0,108.0,326.0
+338,754316257,Casual,Low,4.7,Large,Summer,o-neck,sleeve less,silk,worsted,Others,patchwork,0,132.0,618.0,526.0,1955.0
+339,598523814,Casual,Average,4.7,Free,Summer,v-neck,full sleeves,cotton,Missing,sashes,solid,0,547.0,1658.0,1122.0,4403.0
+340,774130360,Casual,Average,0.0,Free,Winter,v-neck,full sleeves,Others,Missing,Missing,solid,1,1.0,6.0,5.0,16.0
+341,555727400,Casual,Low,4.7,Free,Summer,o-neck,Others,chiffonfabric,chiffon,Missing,print,1,580.0,1784.0,1192.0,4783.0
+342,537463111,Casual,Average,4.7,Medium,Summer,o-neck,three quater,chiffonfabric,chiffon,Others,solid,0,321.0,974.0,650.0,2588.0
+343,933864550,Sexy,Low,4.5,Free,Summer,slash-neck,sleeve less,polyster,Others,Missing,Missing,0,150.0,516.0,382.0,1431.0
+344,944930838,vintage,Low,4.0,Free,Summer,turndowncollor,short,cotton,Others,hollowout,solid,0,183.0,598.0,416.0,1657.0
+345,901346821,Sexy,Low,4.7,Free,Summer,v-neck,sleeve less,Missing,Missing,Missing,Missing,0,32.0,133.0,114.0,360.0
+346,818295153,bohemian,Low,5.0,Free,Summer,o-neck,sleeve less,cotton,broadcloth,Others,print,1,42.0,181.0,154.0,562.0
+347,943414146,Sexy,Average,4.5,Small,Winter,v-neck,sleeve less,polyster,Missing,Missing,Missing,0,738.0,2479.0,1780.0,6744.0
+348,234567890,cute,Average,4.7,Medium,Summer,o-neck,sleeve less,chiffonfabric,Missing,sashes,Others,0,270.0,1042.0,810.0,2990.0
+349,1190383536,vintage,Low,0.0,Free,Summer,o-neck,sleeve less,cotton,Others,Missing,print,1,35.0,489.0,543.0,1425.0
+350,869138763,Casual,Average,4.1,Large,Winter,o-neck,sleeve less,polyster,Missing,Missing,Missing,1,30.0,138.0,114.0,372.0
+351,977173764,Casual,Average,4.2,Medium,Winter,v-neck,full sleeves,polyster,Missing,Others,patchwork,1,55.0,274.0,237.0,794.0
+352,918331326,Brief,Average,4.8,Free,Winter,v-neck,half sleeves,polyster,broadcloth,Missing,solid,0,89.0,372.0,314.0,1010.0
+353,955679920,Sexy,Average,4.8,Small,Winter,v-neck,sleeve less,polyster,chiffon,Others,solid,0,79.0,437.0,396.0,1213.0
+354,862814652,Casual,Average,4.7,Large,Winter,o-neck,sleeve less,polyster,chiffon,Missing,patchwork,0,138.0,458.0,325.0,1218.0
+355,799301728,vintage,Average,4.7,Medium,Summer,v-neck,short,rayon,Missing,beading,print,0,69.0,293.0,241.0,841.0
+356,1039384371,Casual,Average,4.8,Free,Summer,o-neck,sleeve less,cotton,chiffon,sashes,solid,0,50.0,216.0,174.0,602.0
+357,746518490,Sexy,Low,4.7,Medium,Winter,v-neck,sleeve less,polyster,Missing,Missing,striped,0,66.0,919.0,988.0,2882.0
+358,720665176,Casual,Average,5.0,Small,Spring,turndowncollor,full sleeves,cotton,worsted,Missing,solid,0,5.0,19.0,16.0,49.0
+359,1001750851,Casual,Low,1.0,Medium,Spring,o-neck,half sleeves,Missing,chiffon,Missing,Missing,0,14.0,55.0,41.0,159.0
+360,882975367,Sexy,Average,4.1,Free,Summer,v-neck,sleeve less,cotton,Missing,Others,Missing,1,158.0,654.0,583.0,1771.0
+361,1069577979,Casual,Low,4.0,Free,Summer,v-neck,sleeve less,cotton,broadcloth,hollowout,print,0,31.0,156.0,132.0,483.0
+362,1079373429,work,Average,4.7,Medium,Spring,v-neck,sleeve less,Missing,Missing,Missing,Missing,1,25.0,143.0,121.0,354.0
+363,711704151,cute,Average,4.6,Free,Spring,v-neck,full sleeves,cotton,chiffon,Missing,solid,1,662.0,2030.0,1369.0,5382.0
+364,876761815,Casual,Low,5.0,Medium,Spring,o-neck,sleeve less,Others,jersey,Missing,print,0,60.0,271.0,222.0,757.0
+365,1062354779,Casual,Average,4.7,Medium,Autumn,v-neck,sleeve less,Missing,chiffon,Missing,striped,1,175.0,985.0,754.0,1943.0
+366,845853510,Casual,Average,4.5,Large,Summer,o-neck,short,cotton,jersey,Others,solid,0,164.0,747.0,656.0,2003.0
+367,832090686,cute,Average,4.6,Medium,Autumn,o-neck,three quater,silk,chiffon,sashes,print,0,399.0,1264.0,873.0,3404.0
+368,839305476,Casual,Low,4.6,Free,Autumn,o-neck,half sleeves,chiffonfabric,chiffon,Missing,Others,1,124.0,623.0,538.0,1732.0
+370,1211480431,Sexy,Low,0.0,Large,Summer,o-neck,sleeve less,Others,Missing,Missing,striped,0,11.0,532.0,662.0,1514.0
+371,946741571,bohemian,Average,4.0,Free,Winter,o-neck,sleeve less,polyster,chiffon,ruffles,striped,0,342.0,1252.0,926.0,3390.0
+372,724177834,Casual,Low,4.7,Free,Summer,o-neck,full sleeves,cotton,Missing,Missing,solid,1,688.0,1985.0,1287.0,5242.0
+373,975877364,work,Average,0.0,Medium,Summer,v-neck,sleeve less,cotton,worsted,Missing,solid,1,2.0,11.0,8.0,29.0
+374,851697194,bohemian,Average,4.1,Free,Summer,o-neck,three quater,Missing,Missing,hollowout,Missing,0,233.0,739.0,521.0,1970.0
+375,1108356000,Casual,Average,0.0,Medium,Spring,o-neck,half sleeves,Missing,Missing,Others,Missing,0,8.0,34.0,28.0,91.0
+376,871219565,Brief,Low,4.6,Medium,Summer,o-neck,short,cotton,Missing,Missing,animal,0,92.0,311.0,231.0,814.0
+377,1250787559,cute,Low,0.0,Free,Spring,v-neck,sleeve less,chiffonfabric,chiffon,Missing,Missing,1,2.0,6.0,4.0,16.0
+378,942245416,Casual,Average,5.0,Medium,Spring,o-neck,three quater,Others,Missing,Missing,Missing,0,12.0,43.0,32.0,119.0
+379,900108476,Casual,Low,5.0,Free,Winter,o-neck,full sleeves,Others,Missing,applique,solid,0,28.0,159.0,150.0,522.0
+380,1019672746,vintage,Average,4.5,Large,Winter,o-neck,short,Missing,Missing,sequined,patchwork,1,361.0,1183.0,827.0,3201.0
+381,783980024,Casual,Average,4.5,Free,Summer,o-neck,short,polyster,Missing,Missing,solid,0,274.0,925.0,670.0,2525.0
+382,970655043,bohemian,Low,4.4,Large,Summer,Others,short,cotton,Missing,Missing,dot,0,62.0,430.0,420.0,1154.0
+383,1139064593,Casual,High,0.0,Large,Winter,v-neck,three quater,polyster,Missing,ruffles,solid,1,1.0,3.0,2.0,8.0
+384,939389270,Casual,Average,4.8,Free,Winter,o-neck,sleeve less,polyster,Missing,sashes,solid,0,196.0,636.0,447.0,1744.0
+385,859321875,Brief,Low,4.7,Medium,Winter,o-neck,full sleeves,cotton,Missing,Missing,patchwork,0,107.0,460.0,384.0,1448.0
+386,703395323,Casual,Medium,0.0,Free,Winter,Others,full sleeves,Others,Others,Missing,solid,1,1.0,3.0,2.0,8.0
+387,966030991,party,Average,0.0,Medium,Summer,o-neck,full sleeves,cotton,Missing,Missing,patchwork,1,10.0,45.0,37.0,141.0
+388,866405822,bohemian,Average,4.8,Small,Summer,v-neck,short,cotton,Missing,Missing,solid,0,68.0,224.0,160.0,629.0
+389,941564304,Sexy,Average,4.9,Free,Summer,Others,sleeve less,polyster,Missing,sashes,print,0,164.0,607.0,482.0,1697.0
+390,1119360745,Casual,Average,3.0,Medium,Spring,turndowncollor,short,polyster,Missing,sashes,patchwork,0,4.0,15.0,10.0,40.0
+391,932375745,Casual,Low,4.7,Large,Autumn,o-neck,short,polyster,Others,Missing,patchwork,1,201.0,722.0,546.0,2037.0
+392,789373177,Casual,Average,4.3,Medium,Autumn,o-neck,sleeve less,polyster,Missing,Others,solid,0,160.0,523.0,356.0,1456.0
+393,1135456589,Casual,Average,0.0,Extra large,Winter,v-neck,short,polyster,Others,Others,solid,1,14.0,95.0,90.0,277.0
+394,932913675,Casual,Low,5.0,Free,Summer,o-neck,sleeve less,Others,jersey,Others,solid,1,8.0,50.0,43.0,144.0
+395,1217548862,vintage,Average,0.0,Large,Summer,Others,short,cotton,chiffon,Missing,dot,1,15.0,158.0,164.0,506.0
+396,755078866,Casual,Low,4.7,Free,Winter,o-neck,sleeve less,milksilk,Missing,Missing,animal,0,121.0,393.0,271.0,1073.0
+397,1052420390,vintage,Average,5.0,Medium,Summer,v-neck,three quater,polyster,Missing,Missing,print,0,17.0,65.0,48.0,193.0
+398,924108301,Casual,Low,4.7,Large,Summer,o-neck,full sleeves,mix,worsted,Others,patchwork,1,99.0,362.0,266.0,1035.0
+399,675980168,bohemian,Average,4.6,Medium,Spring,o-neck,sleeve less,Others,Others,sashes,solid,0,363.0,1089.0,719.0,2929.0
+400,730603782,party,Average,4.8,Medium,Summer,o-neck,full sleeves,cotton,Missing,Missing,solid,1,327.0,923.0,592.0,2466.0
+401,934830377,bohemian,Low,4.6,Free,Summer,v-neck,sleeve less,cotton,broadcloth,beading,solid,0,114.0,517.0,426.0,1477.0
+402,689406468,party,very-high,4.6,Free,Summer,o-neck,sleeve less,rayon,Missing,hollowout,solid,0,39.0,127.0,91.0,344.0
+403,870994067,cute,Low,4.8,Medium,Spring,o-neck,short,Others,Others,bow,dot,1,127.0,788.0,634.0,1646.0
+404,1016250560,vintage,Average,0.0,Medium,Spring,o-neck,half sleeves,polyster,Missing,Others,animal,0,147.0,1213.0,1317.0,2944.0
+405,860334943,Casual,Medium,4.9,Large,Winter,o-neck,short,cotton,broadcloth,sashes,solid,0,175.0,689.0,536.0,1854.0
+406,863336720,Casual,Average,4.2,Free,Summer,o-neck,sleeve less,cotton,worsted,Missing,striped,1,150.0,799.0,558.0,1499.0
+407,835915937,Casual,Average,4.9,Medium,Summer,o-neck,short,cotton,Missing,ruffles,patchwork,0,70.0,298.0,247.0,914.0
+408,944641715,bohemian,Low,5.0,Extra large,Spring,v-neck,three quater,Missing,Others,Missing,print,1,59.0,354.0,314.0,1037.0
+409,869395176,Casual,Average,4.7,Medium,Summer,o-neck,sleeve less,cotton,Missing,Missing,dot,0,143.0,502.0,373.0,1355.0
+410,1097435333,Casual,Average,0.0,Free,Summer,Others,half sleeves,cotton,Missing,Missing,Missing,0,1.0,5.0,4.0,21.0
+411,1124120907,Casual,Average,0.0,Free,Summer,o-neck,sleeve less,cotton,Missing,Others,Others,0,24.0,250.0,267.0,659.0
+412,1130463523,Sexy,Medium,0.0,Free,Winter,o-neck,sleeve less,polyster,Missing,sequined,solid,0,9.0,101.0,106.0,281.0
+413,560474456,Sexy,Low,4.4,Free,Autumn,v-neck,sleeve less,cotton,worsted,Others,solid,0,334.0,1743.0,1103.0,2929.0
+414,907669618,Sexy,Average,0.0,Free,Spring,v-neck,full sleeves,cotton,Others,Others,solid,1,1.0,2.0,0.0,1.0
+415,710089916,Brief,Average,4.9,Extra large,Spring,slash-neck,full sleeves,Missing,Missing,sashes,solid,0,31.0,158.0,139.0,431.0
+416,1065317917,Casual,Average,0.0,Free,Autumn,v-neck,full sleeves,cotton,Missing,Others,solid,0,19.0,73.0,53.0,189.0
+417,737461130,Casual,Average,4.8,Medium,Summer,v-neck,full sleeves,Missing,Others,Missing,Missing,0,696.0,2003.0,1281.0,5307.0
+418,663993130,Casual,Medium,4.9,Large,Spring,Others,sleeve less,Missing,Missing,Missing,print,0,90.0,268.0,179.0,713.0
+419,933231033,party,Average,4.7,Medium,Spring,o-neck,half sleeves,Missing,Others,Missing,patchwork,0,213.0,1053.0,681.0,1843.0
+420,743417270,Sexy,Low,4.4,Free,Summer,Others,sleeve less,Others,Missing,bow,solid,0,206.0,611.0,382.0,1635.0
+421,798898277,bohemian,Low,4.6,Free,Winter,o-neck,sleeve less,polyster,Missing,Missing,patchwork,1,656.0,1894.0,1198.0,5342.0
+422,549401113,Casual,Low,4.6,Free,Autumn,o-neck,full sleeves,rayon,Missing,Others,solid,1,279.0,859.0,572.0,2364.0
+423,857189807,Sexy,Low,4.5,Free,Summer,o-neck,sleeve less,cotton,Missing,sashes,solid,1,14.0,56.0,44.0,162.0
+425,1199912555,Casual,Average,0.0,Extra large,Spring,Others,sleeve less,mix,Missing,Others,solid,0,32.0,129.0,103.0,361.0
+426,1249825438,Sexy,Average,0.0,Free,Autumn,o-neck,full sleeves,polyster,Others,hollowout,solid,0,41.0,226.0,190.0,696.0
+427,967191118,Sexy,Low,4.8,Free,Spring,v-neck,sleeve less,Missing,Missing,Missing,striped,1,12.0,42.0,29.0,113.0
+428,871620435,Brief,Low,4.7,Free,Autumn,o-neck,sleeve less,Missing,Others,sequined,solid,0,15.0,66.0,59.0,228.0
+429,865490824,Sexy,High,5.0,Medium,Summer,v-neck,sleeve less,mix,Missing,Missing,striped,0,44.0,163.0,122.0,448.0
+430,1079955163,Casual,Average,4.6,Large,Summer,Others,full sleeves,cotton,Missing,Missing,patchwork,0,57.0,240.0,200.0,658.0
+431,600514129,cute,Medium,4.9,Small,Summer,Others,sleeve less,Missing,Missing,bow,patchwork,1,76.0,245.0,172.0,674.0
+432,720087997,Casual,Low,4.3,Free,Spring,o-neck,full sleeves,Missing,chiffon,sashes,Others,1,389.0,1291.0,951.0,3360.0
+433,699651184,Casual,Low,4.7,Small,Autumn,o-neck,sleeve less,cotton,Missing,Missing,solid,0,168.0,466.0,299.0,1258.0
+434,605122868,Casual,Average,4.8,Large,Autumn,boat-neck,sleeve less,Missing,Missing,sashes,solid,0,239.0,661.0,402.0,1737.0
+435,1000425584,cute,Average,4.5,Large,Winter,v-neck,sleeve less,polyster,jersey,sashes,solid,1,29.0,143.0,112.0,421.0
+436,345678901,Casual,Average,4.4,Free,Summer,o-neck,Others,cotton,Missing,Missing,solid,0,255.0,823.0,581.0,2301.0
+437,898316315,party,Average,0.0,Medium,Spring,o-neck,sleeve less,Missing,chiffon,Missing,solid,1,1.0,3.0,2.0,8.0
+438,1017484769,Sexy,Low,0.0,Free,Summer,v-neck,sleeve less,Missing,Missing,Missing,Missing,1,10.0,80.0,78.0,230.0
+439,909624960,work,Average,5.0,Medium,Summer,o-neck,sleeve less,Missing,Missing,Missing,solid,1,25.0,153.0,141.0,483.0
+440,1086459983,Others,Average,5.0,Free,Summer,o-neck,sleeve less,Missing,Missing,Missing,print,0,131.0,463.0,349.0,1149.0
+441,593007494,Casual,Low,4.6,Free,Spring,v-neck,sleeve less,silk,chiffon,Others,solid,0,399.0,1067.0,691.0,2587.0
+442,660179663,Casual,Average,4.5,Medium,Summer,o-neck,full sleeves,cotton,Missing,Others,solid,0,107.0,438.0,377.0,1220.0
+443,751776863,Casual,Average,4.5,Free,Autumn,o-neck,half sleeves,cotton,chiffon,hollowout,solid,1,13.0,87.0,82.0,237.0
+444,1253973206,cute,Low,0.0,Medium,Summer,boat-neck,short,Missing,chiffon,sashes,Missing,0,11.0,311.0,322.0,1587.0
+445,828790972,party,Average,4.9,Medium,Winter,o-neck,half sleeves,cotton,Missing,Others,Missing,1,129.0,472.0,372.0,1277.0
+446,933413410,Casual,Average,4.8,Medium,Summer,o-neck,half sleeves,Missing,Missing,Missing,Missing,0,174.0,562.0,394.0,1562.0
+447,550959163,Casual,Low,4.4,Large,Summer,o-neck,sleeve less,cotton,chiffon,Missing,solid,0,247.0,734.0,486.0,1941.0
+448,933926000,Casual,Average,4.3,Medium,Winter,slash-neck,sleeve less,polyster,Missing,sashes,solid,0,148.0,496.0,353.0,1378.0
+449,953168456,cute,Average,4.7,Large,Summer,o-neck,sleeve less,polyster,broadcloth,Others,solid,0,16.0,97.0,96.0,272.0
+450,1124754999,Sexy,Average,0.0,Small,Summer,v-neck,sleeve less,Missing,Missing,Missing,Missing,1,1.0,3.0,2.0,7.0
+451,832949213,Casual,Low,4.4,Free,Summer,o-neck,sleeve less,Missing,Missing,Missing,animal,0,62.0,206.0,142.0,551.0
+452,801216472,cute,High,4.3,Medium,Spring,boat-neck,full sleeves,polyster,Others,Others,solid,1,25.0,80.0,60.0,208.0
+453,929898500,work,Average,4.8,Medium,Winter,turndowncollor,full sleeves,Missing,Missing,Missing,solid,0,110.0,554.0,502.0,1403.0
+454,850490510,Casual,Average,4.6,Medium,Spring,o-neck,half sleeves,polyster,Missing,Others,solid,0,608.0,1905.0,1310.0,5132.0
+455,1099394392,Sexy,Low,0.0,Free,Summer,v-neck,sleeve less,cotton,Missing,Missing,solid,0,11.0,69.0,67.0,174.0
+456,674885710,Casual,High,4.9,Extra large,Winter,v-neck,full sleeves,cotton,Missing,sequined,solid,0,209.0,720.0,548.0,1855.0
+457,1122991519,Sexy,Low,0.0,Free,Winter,o-neck,sleeve less,Others,chiffon,hollowout,solid,0,3.0,330.0,355.0,769.0
+458,904781800,cute,Average,5.0,Medium,Autumn,v-neck,sleeve less,cotton,Missing,Missing,solid,0,50.0,172.0,122.0,478.0
+459,974438263,cute,Low,0.0,Free,Spring,v-neck,sleeve less,silk,worsted,Others,patchwork,1,3.0,15.0,14.0,47.0
+460,875608094,Casual,Low,4.4,Free,Summer,o-neck,full sleeves,cotton,Missing,Others,solid,0,67.0,251.0,203.0,752.0
+461,1061890181,Casual,Average,0.0,Large,Spring,o-neck,sleeve less,chiffonfabric,chiffon,sequined,solid,0,8.0,31.0,24.0,85.0
+462,1033144189,cute,Average,4.7,Medium,Spring,o-neck,full sleeves,rayon,chiffon,beading,solid,1,44.0,195.0,165.0,559.0
+463,860406062,Casual,Average,4.6,Medium,Winter,v-neck,half sleeves,silk,chiffon,sashes,solid,1,154.0,585.0,452.0,1648.0
+464,692445545,Casual,Low,4.4,Free,Summer,o-neck,full sleeves,cotton,Missing,Missing,solid,1,329.0,870.0,529.0,2141.0
+465,974775647,Casual,Low,5.0,Medium,Autumn,o-neck,sleeve less,Missing,chiffon,Missing,print,1,32.0,173.0,169.0,518.0
+466,1109819647,Casual,Average,0.0,Free,Winter,o-neck,short,polyster,chiffon,Others,solid,0,8.0,42.0,34.0,126.0
+467,1223469038,Sexy,Average,0.0,Free,Winter,slash-neck,sleeve less,cotton,broadcloth,sequined,solid,1,2.0,22.0,28.0,23.0
+468,511503677,Casual,Low,4.4,Medium,Summer,o-neck,half sleeves,chiffonfabric,chiffon,bow,solid,0,623.0,1836.0,1192.0,5018.0
+469,1190558632,cute,Average,0.0,Large,Summer,o-neck,sleeve less,cotton,Missing,Others,solid,1,1.0,3.0,3.0,8.0
+470,641665398,Casual,Low,4.8,Free,Winter,Others,full sleeves,polyster,chiffon,bow,solid,0,10.0,30.0,19.0,80.0
+471,964917582,Casual,Average,5.0,Large,Summer,o-neck,sleeve less,cotton,Missing,Missing,Missing,1,23.0,150.0,150.0,458.0
+472,859922576,cute,Average,4.6,Medium,Spring,o-neck,half sleeves,Others,chiffon,Missing,Missing,0,433.0,1426.0,1020.0,3919.0
+473,817353671,bohemian,Low,4.6,Free,Summer,o-neck,sleeve less,cotton,chiffon,Others,solid,1,217.0,737.0,538.0,2059.0
+474,990559192,Brief,Average,4.7,Medium,Winter,o-neck,half sleeves,Others,chiffon,Missing,striped,0,60.0,203.0,144.0,565.0
+475,713391965,Casual,Low,4.7,Medium,Spring,o-neck,full sleeves,polyster,Missing,Missing,solid,1,560.0,1478.0,810.0,3800.0
+476,532874347,Casual,Average,4.7,Medium,Summer,v-neck,full sleeves,cotton,Missing,Others,solid,1,734.0,2005.0,1214.0,5290.0
+477,655464934,Casual,Average,4.6,Large,Winter,boat-neck,sleeve less,silk,broadcloth,applique,print,1,254.0,769.0,516.0,2117.0
+478,919930954,Casual,Low,4.4,Free,Summer,v-neck,short,cotton,Others,Others,solid,0,538.0,1763.0,1258.0,4828.0
